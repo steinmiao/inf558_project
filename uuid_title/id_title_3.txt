@@ -1,0 +1,102 @@
+Accounting$%^3105000001$%^Accounting
+Algebra & Geometry$%^6005000002$%^Algebra & Geometry
+Algorithms and Data Structures$%^4505000003$%^Algorithms and Data Structures
+Android Development$%^2505000004$%^Android Development
+Anthropology$%^5805000005$%^Anthropology
+Architecture$%^7805000006$%^Architecture
+Art & Culture!@#Art & Designx!@#Arts and Humanities$%^7205000007$%^Art
+Artificial Intelligence$%^9305000008$%^Artificial Intelligence
+Astronomy$%^6605000009$%^Astronomy
+Big Data$%^3705000010$%^Big Data
+Bioinformatics$%^1705000011$%^Bioinformatics
+Biology & Life Sciences!@#Biology$%^2005000012$%^Biology & Life Sciences
+Blockchain and Cryptocurrency$%^2605000013$%^Blockchain and Cryptocurrency
+Business & Management!@#Business!@#!@#Entrepreneurship$%^8305000014$%^Business & Management
+Business Intelligence$%^9505000015$%^Business Intelligence
+Calculus$%^0905000016$%^Calculus
+Career Development$%^9205000017$%^Career Development
+Chemistry$%^8005000018$%^Chemistry
+Civil Engineering$%^6705000019$%^Civil Engineering
+Climate Change$%^4705000020$%^Climate Change
+Communication!@#Communication Skills$%^3105000021$%^Communication
+Computer Networking$%^5405000022$%^Computer Networking
+Computer Science$%^3305000023$%^Computer Science
+Course Development$%^8005000024$%^Course Development
+Culture$%^4505000025$%^Culture
+Cybersecurity$%^3805000026$%^Cybersecurity
+Data Analysis & Statistics!@#Data Analysis$%^7905000027$%^Data Analysis & Statistics
+Data Mining$%^7705000028$%^Data Mining
+Data Science$%^0905000029$%^Data Science
+Data Visualization$%^6405000030$%^Data Visualization
+Databases$%^4505000031$%^Databases
+Deep Learning$%^3205000032$%^Deep Learning
+Design & Creativity!@#Design$%^3805000033$%^Design & Creativity
+DevOps$%^4505000034$%^DevOps
+Digital Media$%^2305000035$%^Digital Media
+Disease & Disorders$%^6805000036$%^Disease & Disorders
+ESL$%^1405000037$%^ESL
+Economics & Finance!@#Economics!@#Finance$%^5305000038$%^Economics & Finance
+Education & Teacher Training!@#Education & Teaching!@#Teacher Development$%^8805000039$%^Education & Teacher Training
+Electrical Engineering$%^4005000040$%^Electrical Engineering
+Electronics$%^9505000041$%^Electronics
+Energy & Earth Sciences$%^9505000042$%^Energy & Earth Sciences
+Engineering$%^9005000043$%^Engineering
+Environmental Science!@#Environmental Studies$%^3205000044$%^Environmental Science
+Ethics$%^0005000045$%^Ethics
+Film & Theatre$%^6405000046$%^Film & Theatre
+Food & Nutrition$%^0505000047$%^Food & Nutrition
+Foreign Language$%^6305000048$%^Foreign Language
+GIS$%^6605000049$%^GIS
+Game Development$%^1705000050$%^Game Development
+Grammar & Writing$%^6705000051$%^Grammar & Writing
+Health & Medicine!@#Health!@#Health & Safety!@#Health Care$%^3005000052$%^Health & Medicine
+Higher Education$%^5105000053$%^Higher Education
+History$%^4705000054$%^History
+Human Resources$%^2605000055$%^Human Resources
+Human Rights$%^7305000056$%^Human Rights
+Humanities$%^0205000057$%^Humanities
+Industry Specific$%^5105000058$%^Industry Specific
+Information Technology$%^0205000059$%^Information Technology
+Internet of Things$%^9105000060$%^Internet of Things
+K12$%^3605000061$%^K12
+Language Learning!@#Language$%^7605000062$%^Language Learning
+Law$%^0405000063$%^Law
+Literature$%^9005000064$%^Literature
+Machine Learning$%^8305000065$%^Machine Learning
+Management & Leadership$%^9205000066$%^Management & Leadership
+Marketing$%^9205000067$%^Marketing
+Math and Logic!@#Foundations of Mathematics!@#Mathematics!@#Math$%^8305000068$%^Math and Logic
+Mechanical Engineering$%^6705000069$%^Mechanical Engineering
+Medicine$%^1705000070$%^Medicine
+Mobile Development$%^4005000071$%^Mobile Development
+Music$%^6805000072$%^Music
+Nanotechnology$%^2405000073$%^Nanotechnology
+Nursing$%^3105000074$%^Nursing
+Nutrition & Wellness$%^3805000075$%^Nutrition & Wellness
+Online Education$%^5905000076$%^Online Education
+Personal Development$%^9905000077$%^Personal Development
+Philosophy & Ethics!@#Philosophy$%^4705000078$%^Philosophy & Ethics
+Physical Science and Engineering!@#Physics$%^9705000079$%^Physical Science and Engineering
+Political Science$%^3805000080$%^Political Science
+Professional Development$%^2805000081$%^Professional Development
+Programming!@#Programming Languages$%^7905000082$%^Programming
+Project Management$%^6105000083$%^Project Management
+Psychology$%^2505000084$%^Psychology
+Public Health$%^0405000085$%^Public Health
+Quantum Mechanics$%^4705000086$%^Quantum Mechanics
+Religion$%^1705000087$%^Religion
+Robotics$%^1405000088$%^Robotics
+STEM$%^7905000089$%^STEM
+Science$%^4605000090$%^Science
+Self Improvement$%^3405000091$%^Self Improvement
+Social Sciences!@#Sociology$%^4905000092$%^Social Sciences
+Software Development$%^0405000093$%^Software Development
+Sports$%^3805000094$%^Sports
+Statistics & Probability$%^3505000095$%^Statistics & Probability
+Strategic Management$%^6805000096$%^Strategic Management
+Sustainability$%^9205000097$%^Sustainability
+Test Prep$%^9705000098$%^Test Prep
+Urban Planning$%^7105000099$%^Urban Planning
+Visual Arts$%^7105000100$%^Visual Arts
+Web Development$%^9905000101$%^Web Development
+iOS Development$%^8505000102$%^iOS Development
